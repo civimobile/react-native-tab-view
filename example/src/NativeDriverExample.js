@@ -10,6 +10,7 @@ import {
   type Route,
   type NavigationState,
 } from 'react-native-tab-view';
+// eslint-disable-next-line import/no-unresolved
 import * as GestureHandler from 'react-native-gesture-handler';
 import Albums from './shared/Albums';
 import Article from './shared/Article';
